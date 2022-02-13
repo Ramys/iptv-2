@@ -17,7 +17,7 @@
     ]
   },
   "server_info": {
-    "url": "pfsv.io:80",
+    "url": "pfsv.io",
     "port": "25461",
     "rtmp_port": "80",
     "timezone": "Europe\/London",
