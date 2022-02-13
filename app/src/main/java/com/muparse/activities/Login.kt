@@ -33,8 +33,8 @@ class Login : AppCompatActivity() {
     private val dir = File(DEFA.path + "/NetupTV")
     val filepath = File(dir.path + "/data.m3u")
     @JvmField
-    val urlLink = "Add your own link"
-    val domain = "Add your Iptv server" //http://portal.example.com:8001";
+    val urlLink = "http://pfsv.io:80"
+    val domain = "http://pfsv.io:80" //http://portal.example.com:8001";
     var firebaseAnalytics: FirebaseAnalytics? = null
     lateinit var editor: SharedPreferences.Editor
     private var spinner: ProgressBar? = null
