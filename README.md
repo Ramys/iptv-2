@@ -1,20 +1,29 @@
-# IpTv
-Android project for live streaming. With this app we can fetch channels from links Or from file(M3U8 / M3u) & Show in Grids Or as columns.
-Select an Channel to play.
-Channel list is Obtained from List Provided.
-Reading M3U / M3U8 file & displaying Channels.
+# Iptv-Brasil-2022
+# Doe e Ajude!
 
-***Contributions | Contributors are welcome*** 👍😍
+Canais , Filmes e Séries
 
-![project](https://img.shields.io/badge/Project-delayed-orange.svg)
+### 💵 Doações
+Se você gosta dos meus projetos, considere fazer uma pequena doação clicando no botão abaixo
+### Financeiramente 💰 
+Com uma simples doação eu lhe envio os aplicativos com os logins e senhas.
+# PagSeguro
+[![Donate](https://amanj.org.br/wp-content/uploads/2021/11/quero_doar.png)](https://pag.ae/7WsNdZYw6)
 
-* Future Updates
-- [x] Exo Player Included
-- [ ] EPG
+# PayPal
+[![Donate](https://camo.githubusercontent.com/de5f024e06352514d507e8562abb22de6296d154/68747470733a2f2f61696b61722e636f2f646f6e6174652e706e67)](https://tinyurl.com/b7e59s9t)
 
-***Screenshots***
-<p align='center'>
-    <img src="https://github.com/sajjadjaved01/iptv/blob/master/Screenshot_2018-05-27-11-28-56.png" height="450px"/>
-    <img src="https://github.com/sajjadjaved01/iptv/blob/master/Screenshot_2018-05-27-11-27-05.png" height="450px"/>
-    <img src="https://github.com/sajjadjaved01/iptv/blob/master/Screenshot_2018-05-27-11-28-09.png" height="450px"/>
-</p>
+#  📺 Web Player Iptv
+
+### http://player.cx/index.php 
+Login e Senha Para Club Tv.
+
+Login: Qtv4AT6FC7
+
+Senha: 1607740720
+
+Precisa de ajuda?
+# Abra um issues(Questão) e eu lhe ajudarei!
+
+# Aplicativo Para Android, Tv Box e Computador (IPTVSmartersPro).
+
